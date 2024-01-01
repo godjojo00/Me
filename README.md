@@ -1,5 +1,9 @@
 1. Fork the repo
 2. Go into the repo
+3.
+```
+cd my-react-app
+```
 3. Install dependencies
 ```sh
 npm install
