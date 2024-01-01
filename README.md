@@ -2,8 +2,10 @@
 ```
 git clone https://github.com/godjojo00/Me.git
 ```
-2. 
+2.
+```
 cd path/to/Me
+``` 
 3.
 ```
 cd my-react-app
