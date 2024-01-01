@@ -1,15 +1,19 @@
-1. Fork the repo
-2. Go into the repo
+1. Clone the repo
+```
+git clone https://github.com/godjojo00/Me.git
+```
+2. 
+cd path/to/Me
 3.
 ```
 cd my-react-app
 ```
-3. Install dependencies
+4. Install dependencies
 ```sh
 npm install
 ```
-4. Start the dev server
+5. Start the dev server
 ```sh
 npm run dev
 ```
-5. Open http://localhost:5173
+6. Open http://localhost:5173
